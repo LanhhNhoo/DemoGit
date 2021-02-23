@@ -6,6 +6,9 @@ public class Exercise1 {
         Scanner scanner = new Scanner(System.in);
         String object;
         System.out.println("What do you like to enter:vvv");
+System.out.println("What do you like to enter:vvv");
+System.out.println("What do you like to enter:vvv");
+System.out.println("What do you like to enter:vvv");
         object = scanner.nextLine();
         System.out.println("Oki. Your string entered : " + object);
     }
