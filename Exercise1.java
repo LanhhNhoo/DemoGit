@@ -9,6 +9,8 @@ public class Exercise1 {
 System.out.println("What do you like to enter:vvv");
 System.out.println("What do you like to enter:vvv");
 System.out.println("What do you like to enter:vvv");
+        System.out.println("What do you like to enter:vvv");
+        System.out.println("What do you like to enter:vvv");
         object = scanner.nextLine();
         System.out.println("Oki. Your string entered : " + object);
     }
