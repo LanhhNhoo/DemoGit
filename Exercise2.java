@@ -7,6 +7,7 @@ public class Exercise2 {
             Scanner scanner = new Scanner(System.in);
             int n;
             System.out.println("Enter the integer: ");
+	    System.out.println("Enter the integer: ");
             n = scanner.nextInt();
             if(n % 2 == 0 && n >= 0)
                 System.out.println(+ n + " is an even an positive number");
